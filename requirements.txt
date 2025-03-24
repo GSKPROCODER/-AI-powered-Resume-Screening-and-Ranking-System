@@ -1,11 +1,6 @@
 streamlit
 PyPDF2
 pandas
-matplotlib
 scikit-learn
-nltk
-wordcloud
-langdetect
-googletrans
-fpdf
-tqdm
+numpy
+matplotlib
